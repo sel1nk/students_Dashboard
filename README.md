@@ -67,7 +67,7 @@ The dashboard supports key stakeholder needs:
 
 Selin Karol  
 Software Engineer & Data Enthusiast  
-[LinkedIn](https://www.linkedin.com/in/selin-karol-891k/))
+[LinkedIn](https://www.linkedin.com/in/selin-karol-891k/)
 
 ---
 
