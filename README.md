@@ -1,6 +1,6 @@
 # 🎓 University Student Dashboard – Power BI Project
 
-![Dashboard Screenshot](students_Dash.png)
+![Dashboard Screenshot](students_dash.png)
 
 -This project is a fully interactive Power BI dashboard built to explore and analyze university student data from multiple angles: academic, demographic, financial, and housing. The goal is to provide actionable insights for departments like Admissions, Student Affairs, and Housing Services.
 
